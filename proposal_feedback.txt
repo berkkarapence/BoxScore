@@ -1,4 +1,0 @@
-Grade: 9/10
-
-Proposal Comments:
-Your proposal is well written and clear. You have covered all of the features of the project. I have a couple of reservations of how you plan to sort the post by relevance or the comments. Focus on the the main features and add it on if you have time.
